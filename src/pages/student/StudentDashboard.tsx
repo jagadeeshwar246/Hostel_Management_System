@@ -175,7 +175,7 @@ const StudentDashboard = () => {
 
         {/* Welcome */}
         <div>
-          <h1 className="text-3xl font-bold">Welcome, Jagadeeshwar</h1>
+          <h1 className="text-3xl font-bold">Welcome</h1>
           <p className="text-muted-foreground">Student ID: {cookieId}</p>
         </div>
 
